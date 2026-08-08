@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "2.1",
   "url_download": "https://github.com/TaboX-System/SCRCPY/releases/download/v1.2/TaboX_System.exe",
   "notas_cambios": "- Se corrigieron errores de conexión.\n- Mejora de rendimiento en la consola."
 }
